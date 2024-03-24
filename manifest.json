@@ -1,7 +1,7 @@
 {
     "name": "Пример PWA",
     "short_name": "PWA Пример",
-    "start_url": "/",
+    "start_url": "mrdimases.github.io/pwatest.github.io/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#3498db",
